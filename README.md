@@ -114,8 +114,12 @@
 
 ### Java进阶
 
-- 
-
+- Effective Java 2nd Edition 英文版[百度云下载链接](https://pan.baidu.com/s/1cV7lI5QzIb_ivug4STINTQ)  密码:m02l
+- 敏捷软件开发：原则、模式与实践[百度云下载链接](https://pan.baidu.com/s/1KhLHtB5bTKbiPmltLxKt1A)  密码:y4gf
+- 代码整洁之道[百度云下载链接](https://pan.baidu.com/s/1Tmc4Pi00J0YRIbJBMCJekA)  密码:42af
+- 代码大全2中文版[百度云下载链接](https://pan.baidu.com/s/1bdQk3w5IUh-ejRrixgw-Yw)  密码:cop7
+- Java性能优化权威指南[百度云下载链接](https://pan.baidu.com/s/1ZJ8ZqAUHkVvH00FW2T_6wA)  密码:kb5n
+- Effective+Java[百度云下载链接](https://pan.baidu.com/s/1FTkJIUcxsuV23UyEE4q2ow)  密码:lp5r
 ### JavaWeb
 
 -
