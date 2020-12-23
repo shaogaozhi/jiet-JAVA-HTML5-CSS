@@ -101,7 +101,16 @@
 
 ### Java 基础
 
-- 阿里巴巴Java开发手[百度云下载链接](https://pan.baidu.com/s/1cLJSto2oN781UtPsqEzYyg)  密码:zsgw
+- 阿里巴巴Java开发手[百度云下载链接](https://pan.baidu.com/s/1_zxjdvIX3RR2NL86btV1WQ)  密码:7ow3
+- JAVA从小白到大牛[百度云下载链接](https://pan.baidu.com/s/1tRkstie-FyT9P4OprLlE-Q)  密码:v8yn
+- JAVA并发编程实践[百度云下载链接](https://pan.baidu.com/s/1srn5T7Lk64wM0owo9Vksjg)  密码:p95f
+- JAVA核心技术[百度云下载链接](https://pan.baidu.com/s/1IgcyUa8SXwReiJ9KrSkE9A)  密码:68jv
+- 码出高效[百度云下载链接](https://pan.baidu.com/s/1twO0hwECAKarpz3h3snvyA)  密码:ysuh
+- 深入理解JAVA虚拟机[百度云下载链接](https://pan.baidu.com/s/1bAyg7e-jq16rPGafnEpXog)  密码:7xb4
+- Head First Java[百度云下载链接](https://pan.baidu.com/s/1-4pRx3K4MSsAPgsEPWnwuA)  密码:2orp
+- JAVA 8实战 [百度云下载链接](https://pan.baidu.com/s/1AtYlDI_sQkTpfzKPIP-E0w)  密码:8b5s
+- JAVA编辑思想[百度云下载链接](https://pan.baidu.com/s/19umVtjr_GOW3vYzdrRTvRw)  密码:ijkm
+- Java并发编程的艺术[百度云下载链接](https://pan.baidu.com/s/1-T27hCKbbZzcw46V2tiSHw)  密码:7spy
 
 ### Java进阶
 
@@ -109,7 +118,7 @@
 
 ### JavaWeb
 
--正
+-
 
 ### Java工具
 
